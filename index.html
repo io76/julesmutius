@@ -2,20 +2,43 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <title>testing</title>
+  <title>test</title>
 </head>
 <body>
+	<nav id="navigation">
+		<a href="#home" id="index">home</a>
+		<a href="#about" id="about">about</a>
+		<a href="#projects" id="projects">projects</a>
+	</nav>
+
+
+
   <div id="content"></div>
+
+
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  
   <script type="text/javascript">
-      const docs = "index.md"
-    async function run() {
-      let file = await fetch(docs)
+	// start 
+    const docs = "index.md"
+    async function run(here) {
+      let file = await fetch(here)
       let text = await file.text()
       document.getElementById('content').innerHTML =
         marked(text);
     }
-    run()
+
+    // run on startup
+    run('index.md')
+
+	// click event for nav
+	document.getElementById("navigation").addEventListener("click",function(e) {    
+	    if(e.target && e.target.nodeName == "A") {
+	        const docs = e.target.id+".md"
+	        run(docs)
+	    }
+	});
+
   </script>
 </body>
 </html>
