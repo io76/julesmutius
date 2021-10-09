@@ -1,4 +1,4 @@
-## PROJECTS
+## Projects
 
 - [sabora tented camp](https://photos.app.goo.gl/5j8Pj48Qehx25sGM6)
 - [private house: Arusha](https://photos.app.goo.gl/aqbMCwSWqK3dguASA)
