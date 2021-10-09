@@ -1,39 +1,18 @@
-## Welcome to GitHub Pages
+## Built by Design : Construction
 
-[link to photos](https://photos.google.com/share/AF1QipOQUj3Xqpaj_zAo5AZZ-SOdr_GoibnJ0y6HEa9G5U4r65SaQZiDZuoC9tpbxB997Q?key=NW9WUGFNb2d0Z0dDaU1hejI4Z2xKYlZGZHRWZU5n)
+[sabora tented camp](https://photos.app.goo.gl/5j8Pj48Qehx25sGM6)
 
-You can use the [editor on GitHub](https://github.com/Builtbydesign/julesmutius/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[private house: Arusha](https://photos.app.goo.gl/aqbMCwSWqK3dguASA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Grumeti: Natta Church](https://photos.app.goo.gl/dnhn1FtjYZYpodN87)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Farufaru build](https://photos.app.goo.gl/QGc3NYD8JCh4LqTs8)
 
-```markdown
-Syntax highlighted code block
+[Home Build](https://photos.app.goo.gl/kQBnF2fP6QG3vkc17)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[Rise Research Institute](https://photos.app.goo.gl/EyaKMJr9MaYLHZnr7)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Builtbydesign/julesmutius/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Rise- kitchen/dinning
+](https://photos.app.goo.gl/wi5suMbq12SkmjVp8)
