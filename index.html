@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>testing</title>
+</head>
+<body>
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script type="text/javascript">
+      const docs = "index.md"
+    async function run() {
+      let file = await fetch(docs)
+      let text = await file.text()
+      document.getElementById('content').innerHTML =
+        marked(text);
+    }
+    run()
+  </script>
+</body>
+</html>
